@@ -1,0 +1,14 @@
+{
+  "orgName": "Ebay - Scratch Org",
+  "edition": "Developer",
+  "features": ["Communities", "CustomerCommunityPlusLogin", "Knowledge", "PlatformEncryption", "PlatformCache", "ContactsToMultipleAccounts", "AdditionalFieldHistory:25", "FieldAuditTrail","FieldService:25",
+    "IndustriesActionPlan","DocumentChecklist"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
